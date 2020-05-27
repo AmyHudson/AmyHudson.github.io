@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, University of Maryland, 2009
-* M.S. in Environmental Science, University of Maryland, 2012
-* Ph.D in Natural Resources, University of Arizona, 2020
+* B.S. in Mathematics             University of Maryland, 2009
+* M.S. in Environmental Science   University of Maryland, 2012
+* Ph.D in Natural Resources       University of Arizona,  2020
 
 Work experience
 ======
