@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download as PDF](/files/CV_Hudson.docx.pdf).
-
+[Download as PDF](/files/CV_Hudson.docx.pdf)
+<!---
 #Education
 #======
 #* Ph.D in Natural Resources       University of Arizona,  2020
@@ -49,4 +49,4 @@ redirect_from:
   
 #Service and leadership
 #======
-#* Currently signed in to 43 different slack teams
+#* Currently signed in to 43 different slack teams --->
