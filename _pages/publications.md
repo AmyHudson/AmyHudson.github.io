@@ -47,7 +47,3 @@ Tjaden, Bob, Dan Rider, Elliott Campbell, and **Amy Hudson** (2015). Maryland’
 **Hudson, A.R.** (2013). Assessing the uncertainty of emergy analyses with Monte Carlo simulations (Master’s thesis). Retrieved from Dissertations and Theses database. [http://hdl.handle.net/1903/13863](http://hdl.handle.net/1903/13863).
 
 **Hudson, A.R.** and L.H. Reeker (2007). Standardizing measurements of autonomy in the artificially intelligent. Performance Metrics for Intelligent Systems Workshop. Paper presented at PerMIS’07 Workshop, Courtyard Gaithersburg Washington Center, Gaithersburg, MD, 28-30 August (pp.70-75). New York, NY: ACM. [doi:10.1145/1660877.1660886](doi:10.1145/1660877.1660886).
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
