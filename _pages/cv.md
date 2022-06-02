@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download as PDF](/files/CV_Hudson.docx.pdf)
+[Download as PDF](/files/CV_Hudson.pdf)
 
