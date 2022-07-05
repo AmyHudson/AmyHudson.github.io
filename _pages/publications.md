@@ -10,9 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*Peer Reviewed (13)*
+*Peer Reviewed (14)*
 
 **Hudson, A.R.**, Peters, D.P.C., Blair, J.M., Childers, D.L., Doran, P.T., Geil, K., Gooseff, M., Gross, K.L., Haddad, N.M., Pastore, M.A., Rudgers, J.A., Sala, O., Seabloom, E.W., Shaver, G. (In press at *BioScience*). Cross-site comparisons of dryland ecosystem response to climate change in the US Long-Term Ecological Research network. 
+
+Humphreys, J.M., Srygley, R.B., Lawton, D. **Hudson, A.R.**, Branson, D.H. (2022). Grasshoppers exhibit asynchrony and spatial non-stationarity in response to the El Niño/Southern and Pacific Decadal Oscillations. *Ecological Modelling*. 471, 110043. [https://doi.org/10.1016/j.ecolmodel.2022.110043](https://doi.org/10.1016/j.ecolmodel.2022.110043).
 
 **Hudson, A.R.**, Smith, W.K., Moore, D.J.P., Trouet, V. (2022). Length of Growing Season is modulated by Northern Hemisphere jet stream variability. *International Journal of Climate*. 1-17. [https://doi.org/10.1002/joc.7553](https://doi.org/10.1002/joc.7553).
 
