@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 *Peer Reviewed (14)*
 
-**Hudson, A.R.**, Peters, D.P.C., Blair, J.M., Childers, D.L., Doran, P.T., Geil, K., Gooseff, M., Gross, K.L., Haddad, N.M., Pastore, M.A., Rudgers, J.A., Sala, O., Seabloom, E.W., Shaver, G. (In press at *BioScience*). Cross-site comparisons of dryland ecosystem response to climate change in the US Long-Term Ecological Research network. 
+**Hudson, A.R.**, Peters, D.P.C., Blair, J.M., Childers, D.L., Doran, P.T., Geil, K., Gooseff, M., Gross, K.L., Haddad, N.M., Pastore, M.A., Rudgers, J.A., Sala, O., Seabloom, E.W., Shaver, G. (2022). Cross-site comparisons of dryland ecosystem response to climate change in the US Long-Term Ecological Research network. *BioScience*. 72(9), 889–907. [https://doi.org/10.1093/biosci/biab134](https://doi.org/10.1093/biosci/biab134).
 
 Humphreys, J.M., Srygley, R.B., Lawton, D. **Hudson, A.R.**, Branson, D.H. (2022). Grasshoppers exhibit asynchrony and spatial non-stationarity in response to the El Niño/Southern and Pacific Decadal Oscillations. *Ecological Modelling*. 471, 110043. [https://doi.org/10.1016/j.ecolmodel.2022.110043](https://doi.org/10.1016/j.ecolmodel.2022.110043).
 
@@ -32,11 +32,11 @@ Xu, G., X. Liu, Q. Zhang, Q. Zhang, **A. Hudson**, and V. Trouet (2019). Century
 
 Albrecht, T., and **A. Hudson** (2019). Being persuasive: Lessons from lawyers that all scientists need. *Eos*. 100. [https://doi.org/10.1029/2019EO115327](https://doi.org/10.1029/2019EO115327). Published on 04 February 2019.
 
-Alfaro-Sánchez R., H. Nguyen, S. Klesse, **A. Hudson**, S. Belmecheri, N. Köse, H.F. Diaz HF, R. Villalba, V. Trouet (2018). Climatic and volcanic forcing of tropical belt northern boundary over the past 800 years. *Nature Geoscience*. [https://doi.org/10.1038/s41561-018-0242-1](https://doi.org/10.1038/s41561-018-0242-1). 
+Alfaro-Sánchez R., H. Nguyen, S. Klesse, **A. Hudson**, S. Belmecheri, N. Köse, H.F. Diaz HF, R. Villalba, V. Trouet (2018). Climatic and volcanic forcing of tropical belt northern boundary over the past 800 years. *Nature Geoscience*. 11, 933–938. [https://doi.org/10.1038/s41561-018-0242-1](https://doi.org/10.1038/s41561-018-0242-1). 
 
-Smith, W. K., J. A. Biederman, R.L. Scott, D.J.P. Moore, M. He, J.S. Kimball, D. Yan, **A. Hudson**, M.L. Barnes, N. MacBean, A.M. Fox, M.E. Litvak (2018). Chlorophyll Fluorescence Better Captures Seasonal and Interannual Gross Primary Productivity Dynamics Across Dryland Ecosystems of Southwestern North America. *Geophysical Research Letters*, 45, 748–757. [https://doi.org/10.1002/2017GL075922](https://doi.org/10.1002/2017GL075922). 
+Smith, W. K., J. A. Biederman, R.L. Scott, D.J.P. Moore, M. He, J.S. Kimball, D. Yan, **A. Hudson**, M.L. Barnes, N. MacBean, A.M. Fox, M.E. Litvak (2018). Chlorophyll Fluorescence Better Captures Seasonal and Interannual Gross Primary Productivity Dynamics Across Dryland Ecosystems of Southwestern North America. *Geophysical Research Letters*. 45, 748–757. [https://doi.org/10.1002/2017GL075922](https://doi.org/10.1002/2017GL075922). 
 
-Belmecheri, S., F. Babst, **A.R. Hudson**, J. Betancourt, V. Trouet (2017). Northern Hemisphere Jet Stream Position Indices as Diagnostic Tools for Climate and Ecosystem Dynamics. *Earth Interactions*, 21(8), 1–23. [https://doi.org/10.1175/EI-D-16-0023.1](https://doi.org/10.1175/EI-D-16-0023.1). 
+Belmecheri, S., F. Babst, **A.R. Hudson**, J. Betancourt, V. Trouet (2017). Northern Hemisphere Jet Stream Position Indices as Diagnostic Tools for Climate and Ecosystem Dynamics. *Earth Interactions*. 21(8), 1–23. [https://doi.org/10.1175/EI-D-16-0023.1](https://doi.org/10.1175/EI-D-16-0023.1). 
 
 **Hudson, A.R.** and D.R. Tilley. (2014). Assessment of uncertainty in emergy evaluations using Monte Carlo simulations. *Ecological Modelling*. 271, 52-61. [https://doi.org/10.1016/j.ecolmodel.2013.05.018](https://doi.org/10.1016/j.ecolmodel.2013.05.018).
 
