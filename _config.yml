@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amy R. Hudson, Ph.D."
   avatar           : "HudsonAmy.JPG"
-  bio              : "ORISE Postdoctoral Fellow with USDA ARS SCINet"
-  location         : 
-  employer         :
+  bio              : "Research Ecologist"
+  location         : "Manhattan, KS"
+  employer         : "USDA Agricultural Research Service"
   googlescholar    : "http://scholar.google.com/citations?user=bvXWfKEAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "amy.hudson@usda.gov"
+  researchgate     : "https://www.researchgate.net/profile/Amy-Hudson-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/amy-r-hudson-ph-d-a618108/"
   orcid            : "https://orcid.org/0000-0001-5814-7492"
   pinterest        :
   soundcloud       :
