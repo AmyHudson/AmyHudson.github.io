@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*Peer Reviewed (14)*
+*Peer Reviewed (15)*
+**Hudson, A.R.**, McGregor, B.L., Shults, P., England, M., Silbernagel, C., Mayo, C., Carpenter, M., Sherman, T.J., and Cohnstaedt, L.W. (2023). Culicoides-borne Orbivirus epidemiology in a changing climate. *Journal of Medical Entomology*. 60(6), 1221–1229 [https://doi.org/10.1093/jme/tjad098](https://doi.org/10.1093/jme/tjad098).
 
 **Hudson, A.R.**, Peters, D.P.C., Blair, J.M., Childers, D.L., Doran, P.T., Geil, K., Gooseff, M., Gross, K.L., Haddad, N.M., Pastore, M.A., Rudgers, J.A., Sala, O., Seabloom, E.W., Shaver, G. (2022). Cross-site comparisons of dryland ecosystem response to climate change in the US Long-Term Ecological Research network. *BioScience*. 72(9), 889–907. [https://doi.org/10.1093/biosci/biab134](https://doi.org/10.1093/biosci/biab134).
 
