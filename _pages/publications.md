@@ -10,9 +10,16 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-*Peer Reviewed (15)*
+*Peer Reviewed (19)*
+Lisonbee, J., Parker, B., Fleishman, E., Ford, T.W., Bocinsky, R.K., Follingstad, G., Frazier, A.G., Hoylman, Z.H., **Hudson, A.R.**, et al. (2025). Prioritization of research on drought assessment in a changing climate. *Earth's Future*, 13, e2024EF005276. [https://doi.org/10.1029/2024EF005276](https://doi.org/10.1029/2024EF005276).
 
-**Hudson, A.R.**, McGregor, B.L., Shults, P., England, M., Silbernagel, C., Mayo, C., Carpenter, M., Sherman, T.J., and Cohnstaedt, L.W. (2023). *Culicoides*-borne *Orbivirus* epidemiology in a changing climate. *Journal of Medical Entomology*. 60(6), 1221–1229 [https://doi.org/10.1093/jme/tjad098](https://doi.org/10.1093/jme/tjad098).
+Scroggs, S.L.P., Swanson, D.A., Steele, T.D., **Hudson, A.R.**, Reister-Hendricks, L.M., Gutierrez, J., Shults, P., McGregor, B.L., Taylor, C.E., Davis, T.M., Lamberski, N., Phair, K.A., Howard, L.L., McConnell, N.E., Gurfield, N., Drolet, B.S., Pelzel-McCluskey, A.M., & Cohnstaedt, L.W. (2024). Vesicular Stomatitis Virus Detected in Biting Midges and Black Flies during the 2023 Outbreak in Southern California. Viruses, 16(9), 1428. [https://doi.org/10.3390/v16091428](https://doi.org/10.3390/v16091428)
+
+Yao, Q., Jiang, D., Zheng, B., Wang, X., Zhu, X., Fang, K., Shi, L., Wang, Z., Wang, Y., Zhong, L., Yanyan Pei, Y., **Hudson, A.**, Xu, S., Bai, M., Huang, X., Trouet, V. (2024). Anthropogenic warming is a key climate indicator of rising urban fire activity in China. *National Science Review*. 11(5). https://doi.org/10.1093/nsr/nwae163
+
+Yao, Q., Zheng, B., Fang, K., **Hudson, A.**, et al. Modulations of NAO on the interplay between monsoon and westerlies in Asia on interdecadal timescales (2024). *Climate Dynamics*. 62, 4031–4040. [https://doi.org/10.1007/s00382-024-07115-3](https://doi.org/10.1007/s00382-024-07115-3).
+
+**Hudson, A.R.**, McGregor, B.L., Shults, P., England, M., Silbernagel, C., Mayo, C., Carpenter, M., Sherman, T.J., and Cohnstaedt, L.W. (2023). *Culicoides*-borne *Orbivirus* epidemiology in a changing climate. *Journal of Medical Entomology*. 60(6), 1221–1229. [https://doi.org/10.1093/jme/tjad098](https://doi.org/10.1093/jme/tjad098).
 
 **Hudson, A.R.**, Peters, D.P.C., Blair, J.M., Childers, D.L., Doran, P.T., Geil, K., Gooseff, M., Gross, K.L., Haddad, N.M., Pastore, M.A., Rudgers, J.A., Sala, O., Seabloom, E.W., Shaver, G. (2022). Cross-site comparisons of dryland ecosystem response to climate change in the US Long-Term Ecological Research network. *BioScience*. 72(9), 889–907. [https://doi.org/10.1093/biosci/biab134](https://doi.org/10.1093/biosci/biab134).
 
