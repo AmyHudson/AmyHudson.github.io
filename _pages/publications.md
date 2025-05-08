@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 *Peer Reviewed (19)*
+
 Lisonbee, J., Parker, B., Fleishman, E., Ford, T.W., Bocinsky, R.K., Follingstad, G., Frazier, A.G., Hoylman, Z.H., **Hudson, A.R.**, et al. (2025). Prioritization of research on drought assessment in a changing climate. *Earth's Future*, 13, e2024EF005276. [https://doi.org/10.1029/2024EF005276](https://doi.org/10.1029/2024EF005276).
 
 Scroggs, S.L.P., Swanson, D.A., Steele, T.D., **Hudson, A.R.**, Reister-Hendricks, L.M., Gutierrez, J., Shults, P., McGregor, B.L., Taylor, C.E., Davis, T.M., Lamberski, N., Phair, K.A., Howard, L.L., McConnell, N.E., Gurfield, N., Drolet, B.S., Pelzel-McCluskey, A.M., & Cohnstaedt, L.W. (2024). Vesicular Stomatitis Virus Detected in Biting Midges and Black Flies during the 2023 Outbreak in Southern California. Viruses, 16(9), 1428. [https://doi.org/10.3390/v16091428](https://doi.org/10.3390/v16091428)
